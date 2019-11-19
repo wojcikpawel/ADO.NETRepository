@@ -1,0 +1,44 @@
+W3SCHOOLS:
+http://www.w3schools.com/asp/ado_intro.asp
+CODE PROJECT:
+A BEGINNER'S TUTORIAL FOR UNDERSTANDING ADO.NET:
+http://www.codeproject.com/Articles/361579/A-Beginners-Tutorial-for-Understanding-ADO-NET
+
+USING ADO.NET FOR BEGINNERS:
+http://www.codeproject.com/Articles/8477/Using-ADO-NET-for-beginners
+
+CONNECTING WINDOWS FORM APP WITH ADO.NET IN C#:
+http://www.codeproject.com/Tips/212006/Connecting-Windows-Form-Application-With-ADO-NET-i
+
+IIS 8.5 WINDOWS8.1-WINDOWS SERVER 2012 R2:
+http://windows.microsoft.com/pl-pl/windows-8/internet-information-services-iis-8-5
+
+Data bases:
+-MICROSOFT SQL SERVER express edition = ADO. NET SQL
+-ORACLE
+-MICROSOFT ACCESS DATABASE = ADO. NET OLEDB
+-MICROSOFT ODBC
+
+MS SQL SERVER DOWNOLAD:
+http://www.microsoft.com/pl-pl/server-cloud/products/sql-server-editions/sql-server-express.aspx
+
+ADO. NET ZAPYTANIA DO BAZY:
+https://michalurbanski.wordpress.com/2010/08/22/ado-net-proste-zapytania-do-bazy-cz-1/
+
+http://4programmers.net/C_sharp/Artyku%C5%82y/Bazy_danych_w_%C5%9Brodowisku_.NET#id-Baza-Microsoft-SQL-Server
+
+ADO. NET TURORIAL:
+https://www.youtube.com/watch?v=aoFDyt8oG0k&list=PL6n9fhu94yhX5dzHunAI2t4kE0kOuv4D7
+
+Resolve:
+http://www.sswug.org/articlesection/default.aspx?TargetID=44331
+https://www.youtube.com/watch?v=L078HZzfAQ8
+
+WPF:
+https://www.youtube.com/playlist?list=PLS1QulWo1RIbTiFrgKi6CO5jVNDBNwHAG  (11odc)
+http://www.c-sharpcorner.com/uploadfile/raj1979/using-ado-net-entity-data-model-in-wpf/
+
+SQL BLOG BY JAKUB OTRZ¥SEK:
+http://jakub.otrzasek.pl/sql/412/ado-net-podlaczenie-sie-do-bazy-sql-server-w-c/
+
+http://reset.ath.bielsko.pl/technologienet/artykuly/csharp/2012/wprowadzenie-do-entity-framework-adonet.aspx

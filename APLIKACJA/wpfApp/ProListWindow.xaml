@@ -1,0 +1,19 @@
+﻿<Window x:Class="wpfApp.ProListWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfApp"
+        mc:Ignorable="d"
+        Title="ProListWindow" Height="Auto" Width="Auto" SizeToContent="WidthAndHeight" Loaded="Window_Loaded" >
+    <Window.Resources>
+        <local:pawelDBDataSet x:Key="pawelDBDataSet"/>
+        <CollectionViewSource x:Key="projectsViewSource" Source="{Binding Projects, Source={StaticResource pawelDBDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource projectsViewSource}" Height="285">
+        <DataGrid x:Name="dataGrid" Margin="0,0,0,152" ItemsSource="{Binding}"/>
+        <Button x:Name="btnExitProList" Content="EXIT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="219,228,0,0" Height="29" Click="btnExitProList_Click"/>
+        <Button x:Name="btnBackProList" Content="BACK" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="32,228,0,0" Height="29" Click="btnBackProList_Click"/>
+
+    </Grid>
+</Window>

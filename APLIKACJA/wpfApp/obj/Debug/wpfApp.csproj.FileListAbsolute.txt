@@ -1,0 +1,222 @@
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\wpfApp.exe.config
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\wpfApp.csprojResolveAssemblyReference.cache
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\App.g.cs
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\wpfApp_MarkupCompile.cache
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\wpfApp_MarkupCompile.lref
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\MainWindow.baml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\wpfApp.exe
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\wpfApp.pdb
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\wpfApp.exe
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\wpfApp.pdb
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\EntityFramework.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\EntityFramework.xml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\wpfApp.g.resources
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\wpfApp.Properties.Resources.resources
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\wpfApp.csproj.GenerateResource.Cache
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\EmpWindow.g.cs
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\EmpWindow.baml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\EmpListWindow.g.cs
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\EmpListWindow.baml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\DepWindow.g.cs
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\DepWindow.baml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\ProWindow.g.cs
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\ProWindow.baml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\DepListWindow.g.cs
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\DepListWindow.baml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\ProListWindow.g.cs
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\obj\Debug\ProListWindow.baml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.Documents.RichTextDocument.v15.2.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.Undo.v15.2.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.v15.2.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.Documents.RichTextDocument.v15.2.xml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.Undo.v15.2.xml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.v15.2.xml
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Wójcik\Desktop\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Wójcik\Desktop\STUDIA V semestr\Przedmioty specjalnościowe 18E\Blok B\.Net i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\wpfApp.exe.config
+C:\Users\Wójcik\Desktop\STUDIA V semestr\Przedmioty specjalnościowe 18E\Blok B\.Net i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.exe
+C:\Users\Wójcik\Desktop\STUDIA V semestr\Przedmioty specjalnościowe 18E\Blok B\.Net i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.pdb
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\wpfApp.exe.config
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\wpfApp.exe
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\wpfApp.pdb
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.dll
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.xml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.Documents.RichTextDocument.v15.2.xml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.Undo.v15.2.xml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.v15.2.xml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.csprojResolveAssemblyReference.cache
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepListWindow.g.cs
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepWindow.g.cs
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpListWindow.g.cs
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpWindow.g.cs
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProListWindow.g.cs
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProWindow.g.cs
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\App.g.cs
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp_MarkupCompile.cache
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp_MarkupCompile.lref
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepListWindow.baml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepWindow.baml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpListWindow.baml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpWindow.baml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\MainWindow.baml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProListWindow.baml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProWindow.baml
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.g.resources
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.Properties.Resources.resources
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.csproj.GenerateResource.Cache
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.exe
+C:\Users\Paweł Wójcik\Desktop\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.pdb
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\wpfApp.exe.config
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.exe
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.pdb
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\wpfApp.exe
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\wpfApp.pdb
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.Documents.RichTextDocument.v15.2.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.Undo.v15.2.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.v15.2.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.csprojAssemblyReference.cache
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepListWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpListWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProListWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\App.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp_MarkupCompile.cache
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp_MarkupCompile.lref
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepListWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpListWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\MainWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProListWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.g.resources
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.Properties.Resources.resources
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.csproj.GenerateResource.cache
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.csproj.CopyComplete
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\wpfApp.exe.config
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\wpfApp.exe
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\wpfApp.pdb
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.Documents.RichTextDocument.v15.2.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.Undo.v15.2.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\InfragisticsWPF4.v15.2.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\de\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\es\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\bin\Debug\fr\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.csprojAssemblyReference.cache
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepListWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpListWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProListWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\App.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp_MarkupCompile.cache
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp_MarkupCompile.lref
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepListWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\DepWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpListWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\EmpWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\MainWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProListWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\ProWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.g.resources
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.Properties.Resources.resources
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.csproj.GenerateResource.cache
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.csproj.CopyComplete
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.exe
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\wpfApp\obj\Debug\wpfApp.pdb
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\wpfApp.exe.config
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\wpfApp.exe
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\wpfApp.pdb
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\EntityFramework.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\InfragisticsWPF4.Documents.RichTextDocument.v15.2.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\InfragisticsWPF4.Undo.v15.2.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\InfragisticsWPF4.v15.2.xml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\de\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\es\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\fr\InfragisticsWPF4.Documents.RichTextDocument.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\de\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\es\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\fr\InfragisticsWPF4.Undo.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\de\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\es\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\bin\Debug\fr\InfragisticsWPF4.v15.2.resources.dll
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\wpfApp.csprojAssemblyReference.cache
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\DepListWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\DepWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\EmpListWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\EmpWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\ProListWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\ProWindow.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\App.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\wpfApp_MarkupCompile.cache
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\wpfApp_MarkupCompile.lref
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\DepListWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\DepWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\EmpListWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\EmpWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\MainWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\ProListWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\ProWindow.baml
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\wpfApp.g.resources
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\wpfApp.Properties.Resources.resources
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\wpfApp.csproj.GenerateResource.cache
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\wpfApp.csproj.CopyComplete
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\wpfApp.exe
+C:\Users\Paweł Wójcik\Documents\C# PULPIT\.NET i C#\PROJEKT\Projekt\APLIKACJA\wpfApp\obj\Debug\wpfApp.pdb

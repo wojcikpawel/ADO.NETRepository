@@ -1,0 +1,22 @@
+﻿<Window x:Class="wpfApp.DepWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfApp"
+        mc:Ignorable="d"
+        Title="DepWindow" Height="300" Width="300">
+    <Grid>
+        <Label x:Name="DepNameLabel" Content="Department Name" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Width="141"/>
+        <Label x:Name="DepLocationLabel" Content="Department Location" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,36,0,0" Width="141"/>
+        <Label x:Name="DepCityLabel" Content="Department City" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.053,2.846" Margin="10,62,0,0" Width="141"/>
+        <Label x:Name="DepPhoneLabel" Content="Department Phone" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,88,0,0" Width="141"/>
+        <TextBox x:Name="DepNameTextbox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="156,14,0,0"/>
+        <TextBox x:Name="DepLocationTextbox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="156,39,0,0"/>
+        <TextBox x:Name="DepCityTextbox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="156,65,0,0"/>
+        <TextBox x:Name="DepPhoneTextbox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="156,91,0,0"/>
+        <Button x:Name="btnDepInsert" Content="INSERT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="156,218,0,0" Click="btnDepInsert_Click" Height="29"/>
+        <Button x:Name="btnDepBack" Content="BACK" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,218,0,0" Height="29" Click="btnDepBack_Click"/>
+
+    </Grid>
+</Window>

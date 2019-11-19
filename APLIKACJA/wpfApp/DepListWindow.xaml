@@ -1,0 +1,19 @@
+﻿<Window x:Class="wpfApp.DepListWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfApp"
+        mc:Ignorable="d"
+        Title="DepListWindow" Height="Auto" Width="Auto" SizeToContent="WidthAndHeight" Loaded="Window_Loaded" d:DesignHeight="275">
+    <Window.Resources>
+        <local:pawelDBDataSet x:Key="pawelDBDataSet"/>
+        <CollectionViewSource x:Key="departmentsViewSource" Source="{Binding Departments, Source={StaticResource pawelDBDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource departmentsViewSource}">
+        <DataGrid x:Name="dataGrid" Margin="0,0,0,119" ItemsSource="{Binding}"/>
+        <Button x:Name="btnExitDepList" Content="EXIT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="188,183,0,0" Height="29" Click="btnExitDepList_Click"/>
+        <Button x:Name="btnBackDepList" Content="BACK" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="23,183,0,0" Height="29" Click="btnBackDepList_Click"/>
+
+    </Grid>
+</Window>

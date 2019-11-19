@@ -1,0 +1,26 @@
+﻿<Window x:Class="wpfApp.EmpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfApp"
+        mc:Ignorable="d"
+        Title="EmpWindow" Height="300" Width="300">
+    <Grid Margin="0,0,2,0">
+        <Label x:Name="EmpNameLabel" Content="Employee Name" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,12,0,0"/>
+        <Label x:Name="EmpLastNameLabel" Content="Employee Lastname" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,38,0,0"/>
+        <Label x:Name="EmpAgeLabel" Content="Employee Age" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,64,0,0"/>
+        <Label x:Name="EmpPostLabel" Content="Employee Post" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,90,0,0"/>
+        <Label x:Name="EmpCityLabel" Content="Employee City" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,116,0,0"/>
+        <Label x:Name="EmpPhoneLabel" Content="Employee Phone" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,142,0,0"/>
+        <TextBox x:Name="EmpNameTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="139,12,0,0"/>
+        <TextBox x:Name="EmpLastNameTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="139,38,0,0"/>
+        <TextBox x:Name="EmpAgeTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="139,64,0,0"  />
+        <TextBox x:Name="EmpPostTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="139,90,0,0"/>
+        <TextBox x:Name="EmpCityTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="139,116,0,0"/>
+        <TextBox x:Name="EmpPhoneTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="139,142,0,0"/>
+        <Button x:Name="btnEmpInsert" Content="INSERT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="139,218,0,0" Click="btnEmpInsert_Click" Height="29"/>
+        <Button x:Name="btnEmpBack" Content="BACK" HorizontalAlignment="Left" VerticalAlignment="Top" Width="115" Margin="10,218,0,0" Height="29" Click="btnEmpBack_Click"/>
+
+    </Grid>
+</Window>
